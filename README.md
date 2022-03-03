@@ -1,6 +1,6 @@
 ### Hi there 👋 Good to have you here !
 
-- 📫 How to reach me: (Linkedin)[https://linkedin.com/in/roguimaraes]
+- 📫 How to reach me: https://linkedin.com/in/roguimaraes
 
 <!--
 **rogerio-app/rogerio-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
